@@ -1,7 +1,7 @@
 Steps to run the project in eclipse
 
 1. clone this project 
-git clone https://github.com/rakeshpriyad/spring-rest-proj.git
+git clone 
 
 import the project in eclipse
 
